@@ -1,3 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 
+#footer-area-right {
+	float: right;
+}
+#footer-area-left {
+	clear: none;
+	float: left;
+}
